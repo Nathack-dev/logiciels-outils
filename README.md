@@ -1,12 +1,13 @@
 ## 📦 Logiciels de gestion de base de données
-- [TablePlus](https://tableplus.com/windows)
 - [HeidiSQL](https://www.heidisql.com/download.php)
 - [DBeaver](https://dbeaver.io/download/)
 
 ## 💬 Logiciels de dialogue en ligne
+- [Microsoft Teams](https://teams.microsoft.com/)
 - [Telegram](https://telegram.org/)
 - [Discord](https://discord.com/)
 - [Twitter](https://twitter.com/home)
+- [TeamSpeak](https://www.teamspeak.com/fr/)
 
 ## ✒️ Logiciels d'édition de texte
 - [Visual Studio Code](https://code.visualstudio.com/download) - [VSCode-Theme-leadcode](https://github.com/LeadcodeDev/VSCode-Theme-leadcode)
