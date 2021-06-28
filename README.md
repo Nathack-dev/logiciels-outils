@@ -1,6 +1,7 @@
 ## 📦 Logiciels de gestion de base de données
 - [HeidiSQL](https://www.heidisql.com/download.php)
-- [DBeaver](https://dbeaver.io/download/)
+- [MariaDB](https://mariadb.org/)
+- [MySQL](https://www.mysql.com/)
 
 ## 💬 Logiciels de dialogue en ligne
 - [Microsoft Teams](https://teams.microsoft.com/)
