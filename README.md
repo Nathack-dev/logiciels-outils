@@ -14,10 +14,10 @@
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 - [PhpStorm](https://www.jetbrains.com/phpstorm/)
-- [WebStorm(https://www.jetbrains.com/webstorm/)
+- [WebStorm](https://www.jetbrains.com/webstorm/)
 - [Eclipse IDE](https://www.eclipse.org/downloads/)
 
-## ✒️ Logiciels de traitement de texte
+## 📝 Logiciels de traitement de texte
 - [Google Doc](https://docs.google.com/document/u/0/)
 - [Google Sheet](https://docs.google.com/spreadsheets/u/0/)
 - [Google Forms](https://docs.google.com/forms/u/0/)
