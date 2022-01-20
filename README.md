@@ -12,7 +12,17 @@
 - [Visual Studio Code](https://code.visualstudio.com/download) - [VSCode-Theme-leadcode](https://github.com/LeadcodeDev/VSCode-Theme-leadcode)
 - [Atom](https://atom.io/)
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows)
+- [PyCharm](https://www.jetbrains.com/pycharm/)
+- [PhpStorm](https://www.jetbrains.com/phpstorm/)
+- [WebStorm(https://www.jetbrains.com/webstorm/)
 - [Eclipse IDE](https://www.eclipse.org/downloads/)
+
+## ✒️ Logiciels de traitement de texte
+- [Google Doc](https://docs.google.com/document/u/0/)
+- [Google Sheet](https://docs.google.com/spreadsheets/u/0/)
+- [Google Forms](https://docs.google.com/forms/u/0/)
+- [Google Slides](https://docs.google.com/presentation/u/0/)
+
 
 ## 💻 Logiciels de virtualisation
 - [VMware Workstation](https://www.vmware.com/products/workstation-pro.html)
@@ -20,7 +30,7 @@
 
 ## 📨 Logiciels de client email
 - [Microsoft Outlook 2019](https://www.microsoft.com/fr-fr/microsoft-365/p/outlook/cfq7ttc0k7c4?activetab=pivot:overviewtab)
-- [Mailbird Pro](https://www.getmailbird.com/fr/)
+- [Courrier Windows 10 ]
 - [Thunderbird](https://www.thunderbird.net/fr/)
 
 ## 🧰 Logiciels client SSH
